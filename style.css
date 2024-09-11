@@ -274,6 +274,7 @@
 
 .portfolio .heading span {
     color: #e91e63;
+    font-size: 5rem;
 }
 
 .portfolio-container {
@@ -288,7 +289,7 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 10px;
-    width: 300px;
+    width: 510px;
     text-align: center;
 }
 
